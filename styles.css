@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(198, 239, 245);
+  }
+h1 {
+    color: blue;
+    display: flex;
+    justify-content: center;
+  }
